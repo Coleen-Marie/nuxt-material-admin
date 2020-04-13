@@ -8,7 +8,7 @@
             icon="fa fa-facebook"
             title="100+"
             sub-title="Likes"
-            color="indigo"
+            color="black"
           >
           </mini-statistic>
         </v-flex>
